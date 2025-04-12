@@ -29,6 +29,24 @@ const quizQuestions = [
     question: "Tko je autor drame 'Hamlet'?",
     options: ["Charles Dickens", "William Shakespeare", "Mark Twain", "Leo Tolstoy"],
     answer: "William Shakespeare"
+  },
+  {
+    id: 4,
+    question: "Koliko kontinenata ima na Zemlji?",
+    options: ["5", "6", "7", "8"],
+    answer: "7"
+  },
+  {
+    id: 5,
+    question: "Koji je najveći ocean na svijetu?",
+    options: ["Atlantski", "Indijski", "Tihi ocean", "Jadranski"],
+    answer: "Tihi ocean"
+  },
+  {
+    id: 6,
+    question: "Koja je najviša planina na svijetu?",
+    options: ["K2", "Kangchenjunga", "Everest", "Makalu"],
+    answer: "Everest"
   }
 ];
 
