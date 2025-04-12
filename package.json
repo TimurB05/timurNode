@@ -1,0 +1,15 @@
+{
+    "name": "simple-quiz-app",
+    "version": "1.0.0",
+    "description": "Simple Quiz App je aplikacija koja korisnicima nudi kratki kviz s više pitanja.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    },
+    "author": "Timur",
+    "license": "MIT"
+  }
+  
